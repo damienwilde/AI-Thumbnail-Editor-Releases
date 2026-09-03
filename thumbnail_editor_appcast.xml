@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Thumbnail editor</title>
+        <title>AI Thumbnail Editor</title>
         <item>
             <title>2.7</title>
             <pubDate>Thu, 03 Sep 2026 12:42:58 +0100</pubDate>
             <sparkle:version>2.7</sparkle:version>
             <sparkle:shortVersionString>2.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/damienwilde/AI-Thumbnail-Editor-Releases/releases/download/v2.7/AI-Thumbnail-Editor-2.7.zip" length="7378512" type="application/octet-stream" sparkle:edSignature="lBA5QbhfA6PPCji15feIaFRh1GUX5M9WQtLYhW3awJoQPUyeBoRkRzkwhbWqjY6RgljkuVGiLz0XHmU3kw7jCQ=="/>
+            <enclosure url="https://github.com/damienwilde/AI-Thumbnail-Editor-Releases/releases/download/v2.7/AI-Thumbnail-Editor-2.7.zip" length="7378511" type="application/octet-stream" sparkle:edSignature="EuSN9ALQy9b2QvFBTW4E/AdFUicEj+2ECyUKDzfRPR9HWDXKrXluxNUntGej6GfMAI+PIsPogAZ7oxaGkzukCg=="/>
         </item>
     </channel>
 </rss>
