@@ -3,6 +3,14 @@
     <channel>
         <title>AI Thumbnail Editor</title>
         <item>
+            <title>2.9.1</title>
+            <pubDate>Wed, 16 Sep 2026 21:19:33 +0100</pubDate>
+            <sparkle:version>2.9.1</sparkle:version>
+            <sparkle:shortVersionString>2.9.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/damienwilde/AI-Thumbnail-Editor-Releases/releases/download/v2.9.1/AI-Thumbnail-Editor-2.9.1.zip" length="7541258" type="application/octet-stream" sparkle:edSignature="+7Egz/GPz6jeaj0goxP2d0EgKyrh99M9gYWGpFNJS3VR/HXlSPyOKhcJ28C3hKeJJxIfxXDjC9b2PZZD/NjJAQ=="/>
+        </item>
+        <item>
             <title>2.9</title>
             <pubDate>Wed, 16 Sep 2026 18:14:52 +0100</pubDate>
             <sparkle:version>2.9</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>2.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/damienwilde/AI-Thumbnail-Editor-Releases/releases/download/v2.8/AI-Thumbnail-Editor-2.8.zip" length="7379701" type="application/octet-stream" sparkle:edSignature="TJAqwFvakQrqX5gVKSutwpbnnfpIt8ZCFJ3s9dqZqpBdUVcx7Wrb7SnFlTvJFys46SkbRbRCkhNCP4Lks78+Ag=="/>
-        </item>
-        <item>
-            <title>2.7</title>
-            <pubDate>Thu, 03 Sep 2026 12:42:58 +0100</pubDate>
-            <sparkle:version>2.7</sparkle:version>
-            <sparkle:shortVersionString>2.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/damienwilde/AI-Thumbnail-Editor-Releases/releases/download/v2.7/AI-Thumbnail-Editor-2.7.zip" length="7378512" type="application/octet-stream" sparkle:edSignature="lBA5QbhfA6PPCji15feIaFRh1GUX5M9WQtLYhW3awJoQPUyeBoRkRzkwhbWqjY6RgljkuVGiLz0XHmU3kw7jCQ=="/>
         </item>
     </channel>
 </rss>
