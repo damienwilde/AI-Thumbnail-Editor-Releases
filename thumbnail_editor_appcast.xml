@@ -3,6 +3,14 @@
     <channel>
         <title>AI Thumbnail Editor</title>
         <item>
+            <title>2.11</title>
+            <pubDate>Mon, 21 Sep 2026 12:12:56 +0100</pubDate>
+            <sparkle:version>2.11</sparkle:version>
+            <sparkle:shortVersionString>2.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/damienwilde/AI-Thumbnail-Editor-Releases/releases/download/v2.11/AI-Thumbnail-Editor-2.11.zip" length="9798867" type="application/octet-stream" sparkle:edSignature="ZUjT052dyM4cWSGeKhE11FpncQkxTm91zT6hegj1Ar7ooBDCZR9LEFS0jVxfyT1G52XI6BtN4z8jMtRM2jkQBA=="/>
+        </item>
+        <item>
             <title>2.10</title>
             <pubDate>Fri, 18 Sep 2026 11:23:04 +0100</pubDate>
             <sparkle:version>2.10</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>2.9.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/damienwilde/AI-Thumbnail-Editor-Releases/releases/download/v2.9.2/AI-Thumbnail-Editor-2.9.2.zip" length="7551410" type="application/octet-stream" sparkle:edSignature="s9P3dpQMxZj0aSvKG/wN6LyuUw3gD9RxUK4IbbX4QtnwiHXEQMawOiZrnuwfzIJ+Uchl3YJLcTzRGG7jZm2FBw=="/>
-        </item>
-        <item>
-            <title>2.9.1</title>
-            <pubDate>Wed, 16 Sep 2026 21:19:33 +0100</pubDate>
-            <sparkle:version>2.9.1</sparkle:version>
-            <sparkle:shortVersionString>2.9.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/damienwilde/AI-Thumbnail-Editor-Releases/releases/download/v2.9.1/AI-Thumbnail-Editor-2.9.1.zip" length="7541258" type="application/octet-stream" sparkle:edSignature="+7Egz/GPz6jeaj0goxP2d0EgKyrh99M9gYWGpFNJS3VR/HXlSPyOKhcJ28C3hKeJJxIfxXDjC9b2PZZD/NjJAQ=="/>
         </item>
     </channel>
 </rss>
