@@ -3,6 +3,14 @@
     <channel>
         <title>AI Thumbnail Editor</title>
         <item>
+            <title>2.11.1</title>
+            <pubDate>Tue, 22 Sep 2026 15:48:50 +0100</pubDate>
+            <sparkle:version>2.11.1</sparkle:version>
+            <sparkle:shortVersionString>2.11.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/damienwilde/AI-Thumbnail-Editor-Releases/releases/download/v2.11.1/AI-Thumbnail-Editor-2.11.1.zip" length="9842070" type="application/octet-stream" sparkle:edSignature="u6EGOyMM639/O8U54KKILiAzGeZhq4vpf+ogs3Kn4UrhMJEkYV+hdLqAdhjhcbkboY7gGTYs8ZtWjTrsgMDcCg=="/>
+        </item>
+        <item>
             <title>2.11</title>
             <pubDate>Mon, 21 Sep 2026 12:12:56 +0100</pubDate>
             <sparkle:version>2.11</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>2.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/damienwilde/AI-Thumbnail-Editor-Releases/releases/download/v2.10/AI-Thumbnail-Editor-2.10.zip" length="9051822" type="application/octet-stream" sparkle:edSignature="0o/PTILG23SfNW2FShcoF7aY3NDXjqUID+O/7+bCOB78McIjuQ2Z2wbAPxAtQSlQmCvp7AUQpKJPexBzq+Q0DA=="/>
-        </item>
-        <item>
-            <title>2.9.2</title>
-            <pubDate>Wed, 16 Sep 2026 21:23:54 +0100</pubDate>
-            <sparkle:version>2.9.2</sparkle:version>
-            <sparkle:shortVersionString>2.9.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/damienwilde/AI-Thumbnail-Editor-Releases/releases/download/v2.9.2/AI-Thumbnail-Editor-2.9.2.zip" length="7551410" type="application/octet-stream" sparkle:edSignature="s9P3dpQMxZj0aSvKG/wN6LyuUw3gD9RxUK4IbbX4QtnwiHXEQMawOiZrnuwfzIJ+Uchl3YJLcTzRGG7jZm2FBw=="/>
         </item>
     </channel>
 </rss>
