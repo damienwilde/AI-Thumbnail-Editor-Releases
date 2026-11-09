@@ -3,6 +3,14 @@
     <channel>
         <title>AI Thumbnail Editor</title>
         <item>
+            <title>2.12</title>
+            <pubDate>Mon, 09 Nov 2026 10:51:27 +0000</pubDate>
+            <sparkle:version>2.12</sparkle:version>
+            <sparkle:shortVersionString>2.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/damienwilde/AI-Thumbnail-Editor-Releases/releases/download/v2.12/AI-Thumbnail-Editor-2.12.zip" length="9974566" type="application/octet-stream" sparkle:edSignature="3tF9Sbi/6GPSJcjBb448tmXSSYv1f57Xxvrt0/ZU+7fEsCFCmJMdL8merdVkqFW2OhKYuoDfCMoI/2AW1nzgDg=="/>
+        </item>
+        <item>
             <title>2.11.1</title>
             <pubDate>Tue, 22 Sep 2026 15:48:50 +0100</pubDate>
             <sparkle:version>2.11.1</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>2.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/damienwilde/AI-Thumbnail-Editor-Releases/releases/download/v2.11/AI-Thumbnail-Editor-2.11.zip" length="9798867" type="application/octet-stream" sparkle:edSignature="ZUjT052dyM4cWSGeKhE11FpncQkxTm91zT6hegj1Ar7ooBDCZR9LEFS0jVxfyT1G52XI6BtN4z8jMtRM2jkQBA=="/>
-        </item>
-        <item>
-            <title>2.10</title>
-            <pubDate>Fri, 18 Sep 2026 11:23:04 +0100</pubDate>
-            <sparkle:version>2.10</sparkle:version>
-            <sparkle:shortVersionString>2.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/damienwilde/AI-Thumbnail-Editor-Releases/releases/download/v2.10/AI-Thumbnail-Editor-2.10.zip" length="9051822" type="application/octet-stream" sparkle:edSignature="0o/PTILG23SfNW2FShcoF7aY3NDXjqUID+O/7+bCOB78McIjuQ2Z2wbAPxAtQSlQmCvp7AUQpKJPexBzq+Q0DA=="/>
         </item>
     </channel>
 </rss>
